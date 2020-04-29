@@ -1,0 +1,1 @@
+INSERT into \"FeatureFlags\" (\"flag\", \"organizationId\", \"createdAt\", \"updatedAt\") values ('ldapAuthentication', 1, now(), now());"
